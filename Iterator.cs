@@ -4,13 +4,13 @@ namespace Assignment4
 {
     class Iterator
     {
-        private IList list;
         private IEnumerator iterator;
+        private IList list;
         
         public Iterator(IList list){
             this.list = list;
             iterator =  list.GetEnumerator();
-            iterator.MoveNext();
+            // iterator.MoveNext();
         }
         
         public object? getElement(){

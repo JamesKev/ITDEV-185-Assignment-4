@@ -9,3 +9,14 @@
 /home/james/Dev/ITDEV185/Assignment4/obj/Debug/netcoreapp3.1/Assignment4.AssemblyInfo.cs
 /home/james/Dev/ITDEV185/Assignment4/obj/Debug/netcoreapp3.1/Assignment4.dll
 /home/james/Dev/ITDEV185/Assignment4/obj/Debug/netcoreapp3.1/Assignment4.pdb
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.exe
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.deps.json
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.runtimeconfig.json
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.runtimeconfig.dev.json
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.dll
+D:\Dev\ITDEV185\assignment4\bin\Debug\netcoreapp3.1\Assignment4.pdb
+D:\Dev\ITDEV185\assignment4\obj\Debug\netcoreapp3.1\Assignment4.csprojAssemblyReference.cache
+D:\Dev\ITDEV185\assignment4\obj\Debug\netcoreapp3.1\Assignment4.AssemblyInfoInputs.cache
+D:\Dev\ITDEV185\assignment4\obj\Debug\netcoreapp3.1\Assignment4.AssemblyInfo.cs
+D:\Dev\ITDEV185\assignment4\obj\Debug\netcoreapp3.1\Assignment4.dll
+D:\Dev\ITDEV185\assignment4\obj\Debug\netcoreapp3.1\Assignment4.pdb
